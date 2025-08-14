@@ -143,5 +143,16 @@ Go to Users in Microsoft Entra ID, select a newly created user, and confirm thei
 <hr style="border: 0.15px solid rgba(0, 0, 0, 0.05);">
 
 
+**Keywords:** 
+azure-custom-domain  
+microsoft-entra-id-setup  
+azure-ad-domain-verification  
+cloud-identity-management  
+azure-tenant-branding  
+dns-record-configuration  
+godaddy-domain-setup  
+custom-email-domain-azure  
+azure-user-authentication  
+microsoft-cloud-administration  
+azure-identity-and-access-management  
 
-**Keywords:** Group Policy, GPO, Windows Server 2022, Active Directory, Workstation Security, Sysadmin, IT Lab, Windows 11
