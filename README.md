@@ -144,15 +144,6 @@ Go to Users in Microsoft Entra ID, select a newly created user, and confirm thei
 
 
 **Keywords:** 
-azure-custom-domain  
-microsoft-entra-id-setup  
-azure-ad-domain-verification  
-cloud-identity-management  
-azure-tenant-branding  
-dns-record-configuration  
-godaddy-domain-setup  
-custom-email-domain-azure  
-azure-user-authentication  
-microsoft-cloud-administration  
-azure-identity-and-access-management  
+azure-custom-domain microsoft-entra-id-setup azure-ad-domain-verification cloud-identity-management azure-tenant-branding dns-record-configuration godaddy-domain-setup custom-email-domain-azure azure-user-authentication microsoft-cloud-administration azure-identity-and-access-management
+
 
